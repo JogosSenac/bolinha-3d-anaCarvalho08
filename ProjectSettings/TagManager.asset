@@ -6,6 +6,10 @@ TagManager:
   tags:
   - CuboBrilhante
   - Agua
+  - PassaFase
+  - PassaFase1
+  - Pontos
+  - Floor
   layers:
   - Default
   - TransparentFX
